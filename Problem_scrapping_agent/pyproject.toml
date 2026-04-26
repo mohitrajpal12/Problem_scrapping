@@ -9,5 +9,6 @@ dependencies = [
     "praw",
     "google-generativeai",
     "crewai",
-    "beautifulsoup4"
+    "beautifulsoup4",
+    "python-dotenv"
 ]

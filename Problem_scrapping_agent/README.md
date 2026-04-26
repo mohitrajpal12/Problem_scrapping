@@ -1,0 +1,1 @@
+Add .env file with gemini keys 
